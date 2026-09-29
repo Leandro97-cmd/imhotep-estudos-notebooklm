@@ -17,7 +17,14 @@ Este projeto faz parte dos meus estudos na DIO e tem como objetivo explorar o us
 - Inteligência artificial: apoio à pesquisa, análise e revisão das informações.
 
 ## Fontes de pesquisa
-As fontes serão adicionadas após a seleção e a verificação de sua relevância e confiabilidade.
+
+As fontes utilizadas na pesquisa incluem materiais de divulgação histórica e um registro de objeto de museu.
+
+* [Imhotep — World History Encyclopedia](https://www.worldhistory.org/imhotep/): artigo de referência para contextualizar a trajetória histórica de Imhotep.
+* [Figura de Imhotep — British Museum](https://www.britishmuseum.org/collection/object/Y_EA63800): registro de um objeto relacionado à representação de Imhotep.
+* [Imhotep — Primeiros Negros](https://primeirosnegros.com/imhotep-primeiro-medico-filosofo-e-arquiteto-da-historia/): material complementar, utilizado com atenção à necessidade de verificar as afirmações históricas nas demais fontes.
+
+As informações foram analisadas criticamente, considerando a diferença entre fatos documentados, interpretações e tradições posteriores.
 
 ## Experimentos com prompts
 Nesta seção serão registrados os prompts utilizados, os resultados obtidos e os ajustes realizados durante a pesquisa.
