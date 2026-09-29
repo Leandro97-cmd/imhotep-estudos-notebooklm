@@ -111,3 +111,50 @@ Capacidade de analisar informações, questionar afirmações, comparar evidênc
 
 **Verificação de fontes**
 Processo de conferir se uma afirmação apresentada em uma pesquisa possui apoio nas fontes consultadas e se pode ser distinguida de interpretações ou informações não comprovadas.
+
+---
+
+## 3. Prompts Reutilizáveis
+
+Os prompts abaixo foram organizados a partir dos aprendizados obtidos durante os experimentos com o NotebookLM. Eles podem ser adaptados para futuras revisões sobre Imhotep ou para outros temas históricos.
+
+### 3.1 Resumo estruturado
+
+> Com base exclusivamente nas fontes disponíveis neste notebook, produza um resumo estruturado sobre [TEMA]. Organize as informações em tópicos e destaque os principais acontecimentos, personagens, conceitos e relações históricas. Não apresente informações que não estejam apoiadas nas fontes.
+
+**Objetivo:** obter uma visão geral organizada do assunto.
+
+### 3.2 Verificação crítica
+
+> Analise as afirmações apresentadas sobre [TEMA] com base nas fontes deste notebook. Para cada afirmação, indique se ela é diretamente apoiada pelas fontes, se representa uma interpretação, se corresponde a uma tradição posterior ou se não possui evidências suficientes. Explique quais fontes sustentam cada conclusão.
+
+**Objetivo:** identificar informações que precisam de maior cuidado ou verificação.
+
+### 3.3 Comparação entre fontes
+
+> Compare o tratamento dado a [TEMA] pelas diferentes fontes disponíveis neste notebook. Identifique pontos de concordância, diferenças de interpretação e informações presentes em uma fonte que não aparecem nas outras. Indique as fontes relacionadas a cada ponto.
+
+**Objetivo:** perceber diferenças entre fontes e evitar depender de uma única referência.
+
+### 3.4 Identificação de lacunas
+
+> Com base exclusivamente nas fontes disponíveis, identifique quais aspectos de [TEMA] não podem ser determinados com segurança. Separe informações comprovadas, informações incertas e questões para as quais as fontes não fornecem evidências suficientes.
+
+**Objetivo:** reconhecer os limites do conhecimento disponível.
+
+### 3.5 Perguntas para revisão
+
+> Crie 10 perguntas de revisão sobre [TEMA] utilizando somente as informações presentes nas fontes deste notebook. Misture perguntas de compreensão, comparação e análise crítica. Depois de cada pergunta, apresente uma resposta fundamentada nas fontes.
+
+**Objetivo:** transformar a pesquisa em material para revisão e aprendizagem ativa.
+
+### 3.6 Revisão das respostas da IA
+
+> Revise a resposta anterior utilizando exclusivamente as fontes disponíveis neste notebook. Identifique possíveis afirmações sem suporte, generalizações, interpretações apresentadas como fatos ou informações que precisam de confirmação. Para cada problema identificado, explique qual fonte deve ser consultada.
+
+**Objetivo:** utilizar a inteligência artificial também para revisar criticamente uma resposta anterior.
+
+### 3.7 Regra geral de uso
+
+Ao utilizar esses prompts, é importante informar o tema específico e verificar se as respostas realmente estão apoiadas nas fontes disponíveis. Os prompts servem como ferramentas de estudo e orientação, mas não substituem a consulta e a análise das fontes originais.
+
