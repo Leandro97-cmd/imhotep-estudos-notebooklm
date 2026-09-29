@@ -27,10 +27,28 @@ As fontes utilizadas na pesquisa incluem materiais de divulgação histórica e 
 As informações foram analisadas criticamente, considerando a diferença entre fatos documentados, interpretações e tradições posteriores.
 
 ## Experimentos com prompts
-Nesta seção serão registrados os prompts utilizados, os resultados obtidos e os ajustes realizados durante a pesquisa.
+
+Os experimentos realizados com o NotebookLM estão documentados no arquivo [`prompts-e-testes.md`](prompts-e-testes.md). O documento apresenta os objetivos dos experimentos, os prompts utilizados, as observações, as limitações identificadas e a comparação entre as abordagens utilizadas.
 
 ## Resultado final
-Esta seção será preenchida ao concluir a pesquisa, com o resumo consolidado, o glossário de conceitos e os prompts reutilizáveis.
+
+O resultado final do projeto foi organizado em um Miniguia de Estudo sobre Imhotep, reunindo:
+
+* um resumo estruturado sobre o tema;
+* um glossário com os principais conceitos aprendidos;
+* um conjunto de prompts reutilizáveis para futuras revisões e pesquisas.
+
+O material está disponível no arquivo [`miniguia-estudo.md`](miniguia-estudo.md).
+
+## Resultado final
+
+O resultado final do projeto foi organizado em um Miniguia de Estudo sobre Imhotep, reunindo:
+
+um resumo estruturado sobre o tema;
+um glossário com os principais conceitos aprendidos;
+um conjunto de prompts reutilizáveis para futuras revisões e pesquisas.
+
+O material está disponível no arquivo miniguia-estudo.md.
 
 ## Aprendizados
 Este projeto busca desenvolver habilidades de pesquisa, curadoria de fontes, pensamento crítico e uso responsável da inteligência artificial.
